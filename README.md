@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Welcome to the comma.ai Calibration Challenge!
 ======
 
@@ -49,3 +50,6 @@ Hints
 <s> $500 Prize </s> CLAIMED
 ------
 The first submission that scores an error under 25% on the unlabeled set, will receive a $500 prize.
+=======
+COMMA AI Calibration Challenge
+>>>>>>> c15ab3b7c83b5df2986779ca07a6c079d8bff629
